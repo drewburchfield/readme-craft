@@ -9,7 +9,7 @@
       "name": "readme-craft",
       "source": "./",
       "description": "Write clean, human-sounding README files for personal and open source projects",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "author": {
         "name": "Drew Burchfield",
         "url": "https://github.com/drewburchfield"
